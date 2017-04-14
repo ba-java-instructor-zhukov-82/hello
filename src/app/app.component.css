@@ -1,0 +1,20 @@
+:host {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  background-color: #DDDDDD;
+}
+
+.jumbotron {
+  margin-top: 15vw;
+}
+
+h1.hello {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+img {
+  width: 7vw;
+  height: 7vw;
+}
